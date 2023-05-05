@@ -7,3 +7,5 @@ In this project, I picked up some datasets on Kaggle, one of them being Airbnb r
     Following this, I made my visualizations from there starting with the "Price By Zipcode", "Average Price for Zip Code", "Revenue of the Airbnb's Per Month", 
     Number of Bedrooms Bringing in the Most Revenue", and ID's Registered With the Bedroom They're In."
     Lastly, made some final touch ups, then uploaded it to Tableau Public. 
+    
+    Here is the link to the dashboard: https://public.tableau.com/app/profile/mohamed.abdulkadir/viz/AirbnbVisualization_16832697954100/AirbnbViz?publish=yes
