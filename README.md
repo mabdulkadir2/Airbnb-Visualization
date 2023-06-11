@@ -1,4 +1,4 @@
-
+# Airbnb Data Viz
 Tools used in this project were Excel and Tableau. 
 
 In this project, I picked up some datasets on Kaggle, one of them being Airbnb rent, costs, bedrooms, the ID's registered when renting out, and more.
